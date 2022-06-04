@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, im Sergio Vargas 🙌
+<h1> Hola a todos</h1>
 
 <!--
 **Sergioavr/Sergioavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
