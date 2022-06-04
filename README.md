@@ -1,5 +1,7 @@
 ### Hi, im Sergio Vargas 🙌
-<h1> Hola a todos</h1>
+<h1> Hi everyone</h1> 
+
+I am a programmer that is constantly growing, if you don't like what you see, come back in a while, I assure you that you will change your mind, it doesn't matter when you read this 🙌🐱‍👤
 
 <!--
 **Sergioavr/Sergioavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
