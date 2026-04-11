@@ -34,7 +34,7 @@ Currently building hands-on skills with AWS and Linux — documenting everything
 ## 📈 My learning path
 
 ```
-[2025] ──► Linux & Networking fundamentals
+[2026] ──► Linux & Networking fundamentals
        ──► AWS Cloud Practitioner (CLF-C02)
        ──► AWS Solutions Architect Associate (SAA-C03)
        ──► CompTIA Security+
